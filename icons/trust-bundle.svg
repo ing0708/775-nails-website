@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="#A9978A" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- heart bubble (back left) -->
+  <circle cx="36" cy="46" r="23"/>
+  <path d="M36 38 C33 33 25 34 25 41 C25 47 36 53 36 53 C36 53 47 47 47 41 C47 34 39 33 36 38 Z"/>
+  <!-- thumbs-up bubble (top right) -->
+  <circle cx="66" cy="34" r="22"/>
+  <path d="M57 33 H62 V45 H57 C56 45 55 44 55 43 V35 C55 34 56 33 57 33 Z"/>
+  <path d="M62 35 C62 35 64 24 68 24 C72 24 71 32 70 34 H78 C81 34 82 37 80 39 C82 40 82 43 79 44 C81 45 80 48 77 48 H64 V35 Z"/>
+  <!-- chat bubble (bottom right) -->
+  <circle cx="68" cy="68" r="20"/>
+  <path d="M60 62 H76 M60 68 H76 M60 74 H70"/>
+  <path d="M56 76 L50 86 L60 81"/>
+</svg>
